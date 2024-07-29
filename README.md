@@ -1,7 +1,6 @@
 # Hey there 👋
 
 ### How to reach me?
-<li>Discord: https://discord.gg/jVYeYHjmxX</li>
 <li>LinkedIn: https://www.linkedin.com/in/vlasov-andrii/</li>
 
 <br>
